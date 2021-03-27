@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511827389 source:c:\users\dudu_\documents\testes de progamação\trabalho_estrutura_intercalação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

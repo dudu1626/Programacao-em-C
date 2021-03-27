@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508089092 source:c:\users\dudu_\documents\testes de progamação\aprendendo open gl 06 - blocos no cenario\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508082722 source:c:\users\dudu_\documents\testes de progamação\aprendendo open gl 05 - colisao simples\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508078545 source:c:\users\dudu_\documents\testes de progamação\aprendendo open gl 04 - movimento automatico\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+

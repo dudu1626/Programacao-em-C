@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503773476 source:c:\users\dudu_\documents\testes de progamação\projeto cinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

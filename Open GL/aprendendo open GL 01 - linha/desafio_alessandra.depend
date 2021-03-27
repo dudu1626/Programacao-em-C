@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507999090 source:c:\users\dudu_\documents\testes de progamação\desafio_alessandra\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+

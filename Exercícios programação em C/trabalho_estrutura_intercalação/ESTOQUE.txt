@@ -1,0 +1,8 @@
+1   lapis        5
+2   caneta       3
+3   borracha     7
+5   apontador    9
+8   regua        5
+15  papel        50
+20  linha        10
+23  adesivo      3

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511221460 source:c:\users\dudu_\documents\testes de progamação\space invaders\jogo_alessandra\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_opengl.h>
+

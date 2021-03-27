@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507996671 source:c:\users\dudu_\documents\testes de progamação\aprendendo open gl 02 -\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+
